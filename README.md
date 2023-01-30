@@ -33,6 +33,4 @@ I'm a SPSS Expert, Content Creator, and a Data Analyst. I'm passionate about sha
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=FrancisBright1&theme=dark&background=000000&show_icons=true&include_all_commits=true&hide_border=true" alt="Francis's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisBright1&count_private=true&langs_count=8&layout=compact&theme=dark&background=000000&hide_border=true" alt="Francis's GitHub stats" /> |
-| ------------- | ------------- |
 
